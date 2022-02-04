@@ -1,0 +1,23 @@
+{
+  "name": "discord-bos-altyapi",
+  "version": "0.0.1",
+  "description": "discord bot altyapı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "graceful-fs": "^4.2.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "bot",
+    "discord"
+  ],
+  "author": "Lewix"
+}

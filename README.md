@@ -1,1 +1,3 @@
-# lewix-discord-bot
+# Lewix Boş Altyapı
+
+## config.json Dosyasını düzenleyin!
